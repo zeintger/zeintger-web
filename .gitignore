@@ -1,0 +1,7 @@
+*.[ao]
+*.lnk
+*.ini
+otros/
+otros/*
+bacupz/
+*~
