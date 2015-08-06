@@ -3,5 +3,8 @@
 *.ini
 otros/
 otros/*
-bacupz/
+otros/**
+otros/**7*
+/bacupz
 *~
+
